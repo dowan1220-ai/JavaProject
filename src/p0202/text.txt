@@ -1,0 +1,2 @@
+붕어빵틀 -> class
+붕어빵 -> object (new)
